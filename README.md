@@ -8,9 +8,9 @@
 
 # About me
 ## My Interests
-- I like to ride horses and rope steers. I typically try to do this at least twice a month.
-- My favorite video game since I was a child has always been *Super Smash Bros.*, made by Nintendo.
-- The gym is also my life, and I live to lift weights and get stronger.
+- I like to ride horses and rope steers. I typically try to do this at least twice a month. I currently work at a ranch throwing hay on the weekends which gives me a chance to get out there more and spend time with the horses.
+- My favorite video game since I was a child has always been *Super Smash Bros.*, made by Nintendo. This game is called a platform fighter because the goal of the game is to stay on the platform while fighting and not fall off of the stage.
+- The gym is also my life, and I live to lift weights and get stronger. Currently at 225lb im looking to add another 20 pounds by my birthday in April,2024. 
 
 ## Websites I Recommend
 - [roadmap](https://roadmap.sh/) - This site provides many different roadmaps in the tech industry and what you need to learn to land jobs in those fields. They also link to articles and resources within their roadmaps to help you find the information you need.
