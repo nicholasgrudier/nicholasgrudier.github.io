@@ -1,4 +1,4 @@
-# nicholasgrudier.github-io
+# nicholasgrudier.github.io
 
 1.Nicholas Grudier njgrudier@my.waketech.edu
 2.This Github account is for my waketech cti.110 class
